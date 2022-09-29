@@ -1,4 +1,4 @@
-# FLASK API SKELETON 🌶🦴
+# FLASK API SKELETON 🦴
 
 ```.env
 
